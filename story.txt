@@ -1,8 +1,14 @@
 A computer Science student in the Union South building trying to debug his CS 400 assignment code.
-They are happy for dubugging.
+<<<<<<< HEAD
+They are happy for dubugging.XiXi said.
 
 
 
 
 
 
+
+=======
+
+Currently, it's his teammate Leo doing this story. It's a warm Saturday afternoon and the sunshine is just fine. Better take a nap here in Union South.
+>>>>>>> 3646acb72380223f0b4a8e843350a6075a79af01
